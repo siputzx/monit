@@ -1,0 +1,14 @@
+{
+  "name": "url-monitoring-api",
+  "version": "1.0.0",
+  "description": "An API to monitor URLs and their status",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "net": "^1.0.2"
+  }
+}
